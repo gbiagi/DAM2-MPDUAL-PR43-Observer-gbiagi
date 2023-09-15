@@ -1,6 +1,6 @@
-# Exemple de Singleton #
+# Exemple de Observable #
 
-En aquest projecte hi ha un exemple de Singleton a Java
+En aquest projecte hi ha un exemple de Observable a Java
 
 ### Compilació i funcionament ###
 
