@@ -1,3 +1,5 @@
+package com.project;
+
 public abstract class Observable<T> {
 
     private T value;

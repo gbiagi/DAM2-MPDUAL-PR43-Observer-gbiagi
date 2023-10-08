@@ -1,3 +1,5 @@
+package com.project;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 public class Main {
 
     public static void main (String[] args) {
-        String basePath = System.getProperty("user.dir") + "/";
+        String basePath = System.getProperty("user.dir") + "/data/";
         String filePath = basePath + "./arxiu.txt";
         File arxiu = new File(filePath);
 
