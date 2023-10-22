@@ -1,6 +1,10 @@
-# Exemple de Observable #
+# PR4.5 Observable #
 
-En aquest projecte hi ha un exemple de Observable a Java
+### ******************** ###
+Clase: DAM2
+
+Autor: Geanfranco Biagi
+### ******************** ###
 
 ### Compilació i funcionament ###
 
